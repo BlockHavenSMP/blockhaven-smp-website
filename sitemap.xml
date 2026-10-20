@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/index.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/about.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/staff.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/news.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/events.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/changelog.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/guidelines.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://blockhavensmp.github.io/blockhaven-smp-website/contact.html</loc>
+       <lastmod>2026-10-20T21:16:47+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
