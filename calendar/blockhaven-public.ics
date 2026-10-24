@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BlockHaven SMP//Fictional Public Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:BlockHaven SMP Public Calendar
+X-WR-CALDESC:Fictional events for an authorized cybersecurity exercise
+BEGIN:VEVENT
+UID:blockhaven-2026-10-03-build-off-registration-opens@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Build-Off registration opens
+DESCRIPTION:The Great Overworld Build-Off opens with the Forgotten Civilizations theme.
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-10-18-technical-readiness-review@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Technical readiness review
+DESCRIPTION:Staff review economy testing and infrastructure change sequencing.
+CATEGORIES:Technical
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-10-23-community-fishing-evening@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Community fishing evening
+DESCRIPTION:Casual community fishing meetup. Bring a rod and something to trade.
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-10-25-season-4-screenshot-evening@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Season 4 screenshot evening
+DESCRIPTION:Share favorite Season 4 builds and memories in Discord.
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-10-27-hosting-comparison-checkpoint@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Hosting comparison checkpoint
+DESCRIPTION:Taylor is expected to present the hosting options comparison\; no migration is scheduled.
+CATEGORIES:Technical
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-10-29-economy-testing-checkpoint@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Economy testing checkpoint
+DESCRIPTION:Target date to complete Season 5 economy testing and readiness review.
+CATEGORIES:Technical
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-10-30-build-off-final-reminder@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Build-Off final reminder
+DESCRIPTION:Last reminder before the build submission deadline.
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-10-31-build-off-submissions-close@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Build-Off submissions close
+DESCRIPTION:Forgotten Civilizations entries must be completed by the published deadline.
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-11-02-build-off-winners-announcement@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Build-Off winners announcement
+DESCRIPTION:Planned announcement of Build-Off winners.
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-11-05-season-5-launch-readiness-check@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Season 5 launch readiness check
+DESCRIPTION:Staff review readiness\, communications\, and rollback plans.
+CATEGORIES:Technical
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-11-07-the-ender-expansion-launch@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:The Ender Expansion launch
+DESCRIPTION:Target launch date for BlockHaven SMP Season 5.
+CATEGORIES:Community
+END:VEVENT
+BEGIN:VEVENT
+UID:blockhaven-2026-11-14-community-exploration-meetup@example.invalid
+DTSTAMP:20261020T180000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Community exploration meetup
+DESCRIPTION:Informal exploration meetup\, subject to server availability.
+CATEGORIES:Community
+END:VEVENT
+END:VCALENDAR
